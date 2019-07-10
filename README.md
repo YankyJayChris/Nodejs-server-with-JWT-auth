@@ -6,6 +6,6 @@ login end point,
 ....
 
 #routes
-/api/users
-/api/profile
+/api/users,
+/api/profile,
 /api/posts
